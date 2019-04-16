@@ -8,4 +8,4 @@ It is a basic implementation of deep neural network. Below is the truth table of
 Input layer >> Hidden layer >> Output layer
 
 ## Accuracy graph<br/>
-![Image of Yaktocat](graphs.jpeg)
+![Image Accuracy Graph]("graphs.jpeg")
