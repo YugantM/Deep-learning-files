@@ -7,5 +7,7 @@ It is a basic implementation of deep neural network. Below is the truth table of
 ## Architecture [Layers] 
 Input layer >> Hidden layer >> Output layer
 
-## Accuracy graph<br/>
-![Image Accuracy Graph]("graphs.jpg")
+## Accuracy graph
+<br/>
+<img src="graphs.jpg" alt="Image Accuracy Graph" style="float: left; margin-right: 10px;" />
+
