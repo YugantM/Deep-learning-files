@@ -9,5 +9,5 @@ Input layer >> Hidden layer >> Output layer
 
 ## Accuracy graph
 <br/>
-<img src="graphs.jpeg" alt="Image Accuracy Graph" style="float: left; margin-right: 10px;" />
+<img src="graphs.JPG" alt="Image Accuracy Graph" style="float: left; margin-right: 10px;" />
 
