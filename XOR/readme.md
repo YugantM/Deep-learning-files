@@ -7,3 +7,5 @@ It is a basic implementation of deep neural network. Below is the truth table of
 ## Architecture [Layers] 
 Input layer >> Hidden layer >> Output layer
 
+## Accuracy graph<br/>
+![Image of Yaktocat](graphs.jpeg)
